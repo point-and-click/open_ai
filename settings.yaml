@@ -7,3 +7,5 @@ items:
     value: 300
   - key: transcribe.model
     value: base
+  - key: jailbreak
+    value: True
